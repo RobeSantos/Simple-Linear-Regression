@@ -1,2 +1,2 @@
-# Projeto1
-Repositorio de projetos sobre detecção de spam
+# Projetos
+Repositorio de projetos de machine learning e tecnicas de processamento de dados
